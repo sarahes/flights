@@ -1,0 +1,24 @@
+{
+   "flights": [
+      {
+         "id": "4baa1270-66ac-4a49-9980-e57595d723e2",
+         "hash": "4baa1270-66ac-4a49-9980-e57595d723e2",
+         "price": {
+            "currency": "CHF",
+            "finalPrice": 273,
+            "payOnArrivalFinal": 0,
+            "vatRate": 0
+         },
+         "legs": [
+            0,
+            1
+         ],
+         "inferiorTo": [],
+         "superiorTo": [
+            1
+         ],
+         "happiness": 273.85,
+         "disoptimality": false
+      },
+   ]
+}
